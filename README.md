@@ -24,3 +24,5 @@ epidemics response, such as:
 - data security
 - examples of outbreak responses
 - ...
+
+The hackathon will be just a day, during which participants will be able to work on their preferred project, and generate pilot results. **At the end of the event, the most promising projects will be selected to become the object of the next RECON hackfest.**
